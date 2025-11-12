@@ -1,1 +1,1 @@
-<js file content omitted for brevity>
+/* app.js content omitted for brevity */
